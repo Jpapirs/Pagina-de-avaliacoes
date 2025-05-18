@@ -97,7 +97,7 @@ main{
 
 .google{
     margin-left: 130px;
-    width: 350px;
+     max-width: 350px;
     
 }
 
@@ -130,7 +130,7 @@ main{
 
 .meta{
     margin-left:30px ;
-    width: 350px;
+    max-width: 350px;
 }
 
 .meta h2{
@@ -170,7 +170,10 @@ main{
 @media (max-width:640px){
     .nota{
         margin-left: 0px;
-        width: 450px;
+        max-width: 450px;
+    }
+    .nota img{
+        
     }
     .reviews{
         margin: 0px 20px;
