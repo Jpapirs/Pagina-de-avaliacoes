@@ -161,6 +161,8 @@ main{
         grid-area: notas;
         place-content: center;
         margin-top: 30px;
+        margin-left: 5px;
+        margin-right: 5px;
     }
     .texto > p{
         max-width: 100%; 
